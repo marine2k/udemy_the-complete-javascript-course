@@ -1,0 +1,13 @@
+course covers javascript and how to use it in browser
+
+node.js = used for server-side javascript , not covered here
+
+librarie: jquery
+framework: angularJS, react
+
+-> all are based on JS
+
+HTML vs CSS vs JS
+	HTML = holding the content - nouns 
+	CSS = presentation of this content - adjective
+	JS = allowes to add dynamic effects, programming, - verbs
